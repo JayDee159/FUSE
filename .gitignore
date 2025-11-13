@@ -1,0 +1,17 @@
+# Compiled binaries
+myfs
+*.o
+*.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Editor backups
+*~
+*.swp
+
+# VS Code settings
+.vscode/
